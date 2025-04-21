@@ -16,7 +16,7 @@ To write a program to create graph using waypoints and use A* algorithm to find 
 8. Create a Game Object for Player ( choose capsule or any others) and attach the script to move player from start to end waypoints
 ```  
 ### Program:
-```c
+```
 **#1.Waypoint.cs**
 using UnityEngine;
 using System.Collections.Generic;
@@ -144,7 +144,7 @@ Check the following:
 
  ### Output:
 
-![exp8](https://raw.githubusercontent.com/PYNAMVINODH/19AI550_new/main/exp8.png)
+ ![exp8](https://github.com/user-attachments/assets/74ad3191-9143-4b7a-bb02-44b7a526adcf)
 
 
 
