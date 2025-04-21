@@ -16,7 +16,7 @@ To write a program to create graph using waypoints and use A* algorithm to find 
 8. Create a Game Object for Player ( choose capsule or any others) and attach the script to move player from start to end waypoints
 ```  
 ### Program:
-```
+```c
 **#1.Waypoint.cs**
 using UnityEngine;
 using System.Collections.Generic;
@@ -131,13 +131,22 @@ public class AICharacter : MonoBehaviour {
         }
     }
 }
-Check the following
+
+~~~
+
+
+###Check the following
+~~~
 1. Waypoints placed in scene
 2. Neighbors set manually via Inspector
 3. WaypointGraph script on a manager
 4. AICharacter assigned a start and goal
+~~~
+
+
 ### Output:
 
+![Screenshot 2025-04-22 001245](https://github.com/user-attachments/assets/cecea3da-6ed0-459f-a7e3-d0ded1aeac77)
 
 
 
