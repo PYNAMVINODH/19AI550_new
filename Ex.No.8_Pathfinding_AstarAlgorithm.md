@@ -138,13 +138,14 @@ Check the following:
 3. WaypointGraph script on a manager
 4. AICharacter assigned a start and goal
 
-### Output:
-
+ 
 
   
 
- 
-exp8.png
+ ### Output:
+
+![exp8](https://raw.githubusercontent.com/PYNAMVINODH/19AI550_new/main/exp8.png)
+
 
 
 
