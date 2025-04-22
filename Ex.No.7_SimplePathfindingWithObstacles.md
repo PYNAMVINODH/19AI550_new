@@ -83,7 +83,9 @@ transform.position = startPos + new Vector3(movement, 0, 0);
 
 
 
+![Screenshot 2025-04-22 111226](https://github.com/user-attachments/assets/dd3cc980-ed2b-4290-aa37-6e18ee5e0a85)
 
+![Screenshot 2025-04-22 111244](https://github.com/user-attachments/assets/a25031c5-087d-4ddd-a0fb-173747865e3c)
 
 
 
