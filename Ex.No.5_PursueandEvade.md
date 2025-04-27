@@ -109,7 +109,11 @@ public class Pursuer: MonoBehaviour
 ### Output:
 
 
+![Screenshot 2025-04-27 054444](https://github.com/user-attachments/assets/7bc171bc-dcc1-41ad-a369-de7ca4208af5)
 
+![Screenshot 2025-04-27 054521](https://github.com/user-attachments/assets/3a8d74e0-87bf-4155-bfe7-b3b7d88eec03)
+
+![Screenshot 2025-04-27 054544](https://github.com/user-attachments/assets/63f7d16a-cbe8-442d-856b-859283d53a47)
 
 
 
